@@ -1,8 +1,8 @@
-package net.digidownloads.letsmod.block;
+package net.digidownloads.FFmine.block;
 
 
 import net.minecraft.block.*;
-import net.digidownloads.letsmod.lib.*;
+import net.digidownloads.FFmine.lib.*;
 
 public class ores  {
 	

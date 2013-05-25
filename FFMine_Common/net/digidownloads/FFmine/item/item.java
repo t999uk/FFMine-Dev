@@ -1,6 +1,6 @@
-package net.digidownloads.letsmod.item;
+package net.digidownloads.FFmine.item;
 
-import net.digidownloads.letsmod.lib.Reference;
+import net.digidownloads.FFmine.lib.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 

@@ -1,4 +1,4 @@
-package net.digidownloads.letsmod.lib;
+package net.digidownloads.FFmine.lib;
 
 
 public class Reference {
