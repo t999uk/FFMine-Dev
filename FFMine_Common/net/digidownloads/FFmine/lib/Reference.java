@@ -6,12 +6,12 @@ public class Reference {
     /**
      * The mod id
      */
-    public static final String MOD_ID = "";
+    public static final String MOD_ID = "FFMine";
     
     /**
      * The mod name
      */
-    public static final String MOD_NAME = "";
+    public static final String MOD_NAME = "FFMine";
     
     /**
      * The version of the mod
@@ -45,5 +45,5 @@ public class Reference {
 
 	public static final int ShardofWaterID = 0;
 
-	public static int ShardofIceID;
+	public static final int ShardofIceID = 0;
 }

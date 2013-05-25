@@ -1,10 +1,10 @@
 [
 {
-  "modid": "",
-  "name": "",
+  "modid": "FFMine",
+  "name": "FFMine",
   "description": "",
   "version": "0.0.1",
-  "url": "",
+  "url": "www.github.com/t999uk/FFMine-dev",
   "updateUrl": "",
   "authorList": [
     "t999uk"
