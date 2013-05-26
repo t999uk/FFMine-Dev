@@ -46,4 +46,21 @@ public class Reference {
 	public static final int ShardofWaterID = 0;
 
 	public static final int ShardofIceID = 0;
+
+	public static final int ShardofEarthID = 0;
+
+	public static final int EarthCrystalID = 0;
+
+	public static final int FireCrystalID = 0;
+
+	public static final int WaterCrystalID = 0;
+
+	public static final int ThunderCrystalID = 0;
+
+	public static final int IceCrystalID = 0;
+
+	public static final int CrystalofHopeID = 0;
+
+	public static final int CrystalofDespairID = 0;
+
 }
