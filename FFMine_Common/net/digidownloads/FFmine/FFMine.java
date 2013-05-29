@@ -1,6 +1,8 @@
 package net.digidownloads.FFmine;
 
 import net.digidownloads.FFmine.lib.Reference;
+import net.digidownloads.FFmine.block.*;
+import net.digidownloads.FFmine.item.*;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
@@ -10,15 +12,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-/**
- * LetsMod
- * 
- * LetsMod
- * 
- * @author pahimar
- * @license Lesser GNU Public License v3 (http://www.gnu.org/licenses/lgpl.html)
- * 
- */
+
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
 public class FFMine {
 
@@ -35,7 +29,8 @@ public class FFMine {
      */
     @PreInit
     public void preInit(FMLPreInitializationEvent event) {
-        
+        ores.init();
+       // net.digidownloads.FFmine.item.item;
     }
     
     /***

@@ -21,19 +21,19 @@ public class Reference {
     //Block IDS
     
     
-	public static final int oreSilverDragoniteID = 0;
+	public static final int oreSilverDragoniteID = 1000;
 
-	public static final int oreGoldDragoniteID = 0;
+	public static final int oreGoldDragoniteID = 1001;
 
-	public static final int oreRubyDragoniteID = 0;
+	public static final int oreRubyDragoniteID = 1002;
 
-	public static final int oreThunderStoneID = 0;
+	public static final int oreThunderStoneID = 1003;
 
-	public static final int oreWaterStoneID = 0;
+	public static final int oreWaterStoneID = 1004;
 
-	public static final int oreFireStoneID = 0;
+	public static final int oreFireStoneID = 1005;
 
-	public static final int oreLightStoneID = 0;
+	public static final int oreLightStoneID = 1006;
 
 	public static final int ShardofDarknessID = 0;
 
