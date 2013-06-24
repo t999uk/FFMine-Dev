@@ -1,9 +1,8 @@
 package net.digidownloads.FFmine;
 
+import net.digidownloads.FFmine.item.ModItems;
 import net.digidownloads.FFmine.lib.Reference;
 import net.digidownloads.FFmine.block.*;
-import net.digidownloads.FFmine.item.*;
-
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
 import cpw.mods.fml.common.Mod.PostInit;
@@ -30,7 +29,7 @@ public class FFMine {
     @PreInit
     public void preInit(FMLPreInitializationEvent event) {
         ores.init();
-       // net.digidownloads.FFmine.item.item;
+       ModItems.init();
     }
     
     /***

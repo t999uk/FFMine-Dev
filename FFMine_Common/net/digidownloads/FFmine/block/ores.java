@@ -7,6 +7,10 @@ import net.digidownloads.FFmine.lib.*;
 
 public class ores  {
 	
+	
+	
+	
+	//thinking of changing these or removing theses
 	public static void init(){
 	
 	final Block oreSilverDragonite = (new BlockOre (Reference.oreSilverDragoniteID)).setHardness(3.0F).setResistance(5.0F).setUnlocalizedName("oreSilverDragonite");

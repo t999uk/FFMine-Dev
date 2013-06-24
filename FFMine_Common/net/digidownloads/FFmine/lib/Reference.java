@@ -35,32 +35,32 @@ public class Reference {
 
 	public static final int oreLightStoneID = 1006;
 
-	public static final int ShardofDarknessID = 0;
+	public static final int ShardofDarknessID = 20070;
 
-	public static final int ShardofFireID = 0;
+	public static final int ShardofFireID = 20080;
 
-	public static final int ShardofLightID = 0;
+	public static final int ShardofLightID = 20090;
 
-	public static final int ShardofLightningID = 0;
+	public static final int ShardofLightningID = 20100;
 
-	public static final int ShardofWaterID = 0;
+	public static final int ShardofWaterID = 20110;
 
-	public static final int ShardofIceID = 0;
+	public static final int ShardofIceID = 20120;
 
-	public static final int ShardofEarthID = 0;
+	public static final int ShardofEarthID = 20130;
 
-	public static final int EarthCrystalID = 0;
+	public static final int EarthCrystalID = 20140;
 
-	public static final int FireCrystalID = 0;
+	public static final int FireCrystalID = 20150;
 
-	public static final int WaterCrystalID = 0;
+	public static final int WaterCrystalID = 20160;
 
-	public static final int ThunderCrystalID = 0;
+	public static final int ThunderCrystalID = 20170;
 
-	public static final int IceCrystalID = 0;
+	public static final int IceCrystalID = 20180;
 
-	public static final int CrystalofHopeID = 0;
+	public static final int CrystalofHopeID = 20190;
 
-	public static final int CrystalofDespairID = 0;
+	public static final int CrystalofDespairID = 20200;
 
 }
