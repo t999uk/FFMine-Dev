@@ -13,7 +13,7 @@ public class ores  {
 	//thinking of changing these or removing theses
 	public static void init(){
 	
-	final Block oreSilverDragonite = (new BlockOre (Reference.oreSilverDragoniteID)).setHardness(3.0F).setResistance(5.0F).setUnlocalizedName("oreSilverDragonite");
+	/*final Block oreSilverDragonite = (new BlockOre (Reference.oreSilverDragoniteID)).setHardness(3.0F).setResistance(5.0F).setUnlocalizedName("oreSilverDragonite");
 	final Block oreGoldDragonite = (new BlockOre (Reference.oreGoldDragoniteID)).setHardness(3.0F).setResistance(5.0F).setUnlocalizedName("oreGoldDragonite");
 	final Block oreRubyDragonite = (new BlockOre (Reference.oreRubyDragoniteID)).setHardness(50.0F).setResistance(5.0F).setUnlocalizedName("oreRubyDragonite");
 	final Block ThunderStone = (new BlockOre (Reference.oreThunderStoneID)).setHardness(3.0F).setResistance(5.0F).setUnlocalizedName("ThunderStone");
@@ -28,7 +28,10 @@ public class ores  {
 	GameRegistry.registerBlock(WaterStone,Strings.WaterStone_Name);
 	GameRegistry.registerBlock(FireStone,Strings.FireStone_Name);
 	GameRegistry.registerBlock(LightStone,Strings.LightStone_Name);
-	
+	*/
+		
+		
+		
 	
 	}
 }

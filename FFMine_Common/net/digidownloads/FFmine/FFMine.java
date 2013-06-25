@@ -28,7 +28,7 @@ public class FFMine {
      */
     @PreInit
     public void preInit(FMLPreInitializationEvent event) {
-        ores.init();
+       ores.init();
        ModItems.init();
     }
     
