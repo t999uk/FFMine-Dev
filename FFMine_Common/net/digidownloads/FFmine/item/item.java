@@ -17,7 +17,7 @@ public class item {
 	public static final Item ShardofLightning =(new Item ((Reference.ShardofLightningID)-256)).setUnlocalizedName("ShardofLightning").setCreativeTab(CreativeTabs.tabMaterials);
 	public static final Item ShardofWater = (new Item ((Reference.ShardofWaterID)-256)).setUnlocalizedName("ShardofWater").setCreativeTab(CreativeTabs.tabMaterials);
 	public static final Item ShardofEarth = (new Item ((Reference.ShardofEarthID)-256)).setUnlocalizedName("ShardofEarth").setCreativeTab(CreativeTabs.tabMaterials);
-	
+	public static final Item ShardofAir = (new Item ((Reference.ShardofAirID)-256)).setUnlocalizedName("ShardofAir").setCreativeTab(CreativeTabs.tabMisc);
 	
 	
 	
