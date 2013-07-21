@@ -25,6 +25,7 @@ public class Strings {
 	public static final String ShardofIce_name = "Ice Shard";
 	public static final String ShardofLightning_name = "Shard of Lighning";
 	public static final String ShardofWater_name = "Water Shard";
+	
     
 	
 }

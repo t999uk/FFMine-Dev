@@ -17,19 +17,19 @@ public class item {
 	public static final Item ShardofLightning =(new Item ((Reference.ShardofLightningID)-256)).setUnlocalizedName("ShardofLightning").setCreativeTab(CreativeTabs.tabMaterials);
 	public static final Item ShardofWater = (new Item ((Reference.ShardofWaterID)-256)).setUnlocalizedName("ShardofWater").setCreativeTab(CreativeTabs.tabMaterials);
 	public static final Item ShardofEarth = (new Item ((Reference.ShardofEarthID)-256)).setUnlocalizedName("ShardofEarth").setCreativeTab(CreativeTabs.tabMaterials);
-	
+	public static final Item ShardofAir = (new Item ((Reference.ShardofAirID)-256)).setUnlocalizedName("ShardofAir").setCreativeTab(CreativeTabs.tabMisc);
 	
 	
 	
 	//crystals item form
 	
-	public static final Item EarthCrystal = (new Item(Reference.EarthCrystalID)).setUnlocalizedName("EarthCrystal").setCreativeTab(CreativeTabs.tabMaterials);
-	public static final Item FireCrystal = (new Item(Reference.FireCrystalID)).setUnlocalizedName("FireCrystal").setCreativeTab(CreativeTabs.tabMaterials);
-	public static final Item WaterCrystal = (new Item (Reference.WaterCrystalID)).setUnlocalizedName("WaterCrystal").setCreativeTab(CreativeTabs.tabMaterials);
-	public static final Item ThunderCrystal = (new Item (Reference.ThunderCrystalID)).setUnlocalizedName("ThunderCrystal").setCreativeTab(CreativeTabs.tabMaterials);
-	public static final Item IceCrystal = (new Item (Reference.IceCrystalID)).setUnlocalizedName("IceCrystal").setCreativeTab(CreativeTabs.tabMaterials);
-	public static final Item CrystalofHope = (new Item (Reference.CrystalofHopeID)).setUnlocalizedName("CrystalofHope").setCreativeTab(CreativeTabs.tabMaterials);
-	public static final Item CrystalofDespair = (new Item (Reference.CrystalofDespairID)).setUnlocalizedName("CrystalofDesPair").setCreativeTab(CreativeTabs.tabMaterials);
+	public static final Item EarthCrystal = (new Item((Reference.EarthCrystalID)-256)).setUnlocalizedName("EarthCrystal").setCreativeTab(CreativeTabs.tabMaterials);
+	public static final Item FireCrystal = (new Item((Reference.FireCrystalID)-256)).setUnlocalizedName("FireCrystal").setCreativeTab(CreativeTabs.tabMaterials);
+	public static final Item WaterCrystal = (new Item ((Reference.WaterCrystalID)-256)).setUnlocalizedName("WaterCrystal").setCreativeTab(CreativeTabs.tabMaterials);
+	public static final Item ThunderCrystal = (new Item (Reference.ThunderCrystalID-256)).setUnlocalizedName("ThunderCrystal").setCreativeTab(CreativeTabs.tabMaterials);
+	public static final Item IceCrystal = (new Item (Reference.IceCrystalID-256)).setUnlocalizedName("IceCrystal").setCreativeTab(CreativeTabs.tabMaterials);
+	public static final Item CrystalofHope = (new Item ((Reference.CrystalofHopeID)-256)).setUnlocalizedName("CrystalofHope").setCreativeTab(CreativeTabs.tabMaterials);
+	public static final Item CrystalofDespair = (new Item ((Reference.CrystalofDespairID)-256)).setUnlocalizedName("CrystalofDesPair").setCreativeTab(CreativeTabs.tabMaterials);
 	
 	//other crafting items 
 	

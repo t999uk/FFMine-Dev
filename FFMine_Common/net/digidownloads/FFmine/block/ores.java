@@ -30,9 +30,6 @@ public class ores  {
 	GameRegistry.registerBlock(LightStone,Strings.LightStone_Name);
 	*/
 		
-		
-		
-		
 	
 	}
 }
