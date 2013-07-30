@@ -1,5 +1,5 @@
 Ores:
-
+	
 
 
 
@@ -15,13 +15,52 @@ Metals:
 
 
 Weapons:
+		add new swords
+		add new bows
+		enable weapons to be enchanted using elemental shards
+		
+		Swords:
+			add the ability to metal plate swords to give extra buffs i.e gold plating faster attack speed
+			add the option to enchant using elemental shards:
+				fire shard -> fire acpect
+				air shard -> knockback
 
-
+		bows:
+			add bows made from different materials  like iron,gold increase durability and enable different enchants,
+			add the option to enchant using shards
+			
+		add a new weapon class of axe
+			attack range 2
+		
+		add a new weapon class of mace
+			attack range 3 
 
 
 
 
 Armor:
+	enable enchanting thought shards
+		water -> aqua affinity
+		fire -> fire protection
+		light -> protection
+		air -> projectile protection
+		
+	
+
+machine/blocks
+
+
+	blacksmithing table
+		allows the adding of enchants on item using crystals and shards
+		allows the crafting of metal alloys
+		allows the crafting of metal bows
+
+
+enchanting system
+	
+		change the way enchants work		
+
+
 
 
 
