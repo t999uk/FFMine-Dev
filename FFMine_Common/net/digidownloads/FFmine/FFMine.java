@@ -1,6 +1,7 @@
 package net.digidownloads.FFmine;
 
-import net.digidownloads.FFmine.item.ModItems;
+import net.digidownloads.FFmine.item.Crystals;
+import net.digidownloads.FFmine.item.GrindStone;
 import net.digidownloads.FFmine.lib.Reference;
 import net.digidownloads.FFmine.block.*;
 import cpw.mods.fml.common.Mod;
@@ -29,7 +30,8 @@ public class FFMine {
     @PreInit
     public void preInit(FMLPreInitializationEvent event) {
        ores.init();
-       ModItems.init();
+       Crystals.Item();
+       GrindStone.Item();
     }
     
     /***

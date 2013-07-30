@@ -25,6 +25,10 @@ public class Strings {
 	public static final String ShardofIce_name = "Ice Shard";
 	public static final String ShardofLightning_name = "Shard of Lighning";
 	public static final String ShardofWater_name = "Water Shard";
+	public static final String StoneGrindWheelName = "Stone Grind Wheel";
+	public static final String IronGrindWheelName = null;
+	public static final String GoldGrindWheelName = null;
+	public static final String DiamondGrindWheelName = null;
 	
     
 	

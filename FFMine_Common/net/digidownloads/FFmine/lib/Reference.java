@@ -32,6 +32,11 @@ public class Reference {
 	public static final int IceCrystalID = 0;
 	public static final int CrystalofHopeID = 0;
 	public static final int CrystalofDespairID = 0;
+	public static final int StoneGrindWheelID = 1007;
+	public static final int IronGrindWheelID = 0;
+	public static final int GoldGrindWheelID = 0;
+	public static final int DiamondGrindWheelID = 0;
+	
 	
 
 	

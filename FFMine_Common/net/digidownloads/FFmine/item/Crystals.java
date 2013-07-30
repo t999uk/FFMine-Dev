@@ -11,10 +11,11 @@ import net.minecraft.item.ItemStack;
 
 
 
-public class ModItems {
+public class Crystals {
 	
-	public static void init (){
+	public static void Item (){
 		
+		// Elemental Crystals
 		GameRegistry.registerItem(item.ShardofDarkness, Strings.ShardofDarkness_name);
 		GameRegistry.registerItem(item.ShardofEarth, Strings.ShardofEarth_name);
 		GameRegistry.registerItem(item.ShardofFire,Strings.ShardofFire_name);
