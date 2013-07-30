@@ -20,9 +20,9 @@ public class GrindStone {
 				
 		
 		GameRegistry.addShapedRecipe(new ItemStack(StoneGrindWheel),new Object[] {"SSS","S S","SSS",Character.valueOf('S'),net.minecraft.block.Block.stone});
-		//GameRegistry.addShapedRecipe(new ItemStack(IronGrindWheel),new Object[] {"III","S","III",Character.valueOf('I'),net.minecraft.item.Item.ingotIron,Character.valueOf('S'),StoneGrindWheel});
-		//GameRegistry.addShapedRecipe(new ItemStack(GoldGrindWheel),new Object[] {"GGG","GIG","GGG",Character.valueOf('G'),net.minecraft.item.Item.ingotGold,Character.valueOf('I'),IronGrindWheel});
-		//GameRegistry.addShapedRecipe(new ItemStack(DiamondGrindWheel),new Object[] {"DDD","DGD","DDD",Character.valueOf('D'),net.minecraft.item.Item.diamond,Character.valueOf('G'),GoldGrindWheel});
+		GameRegistry.addShapedRecipe(new ItemStack(IronGrindWheel),new Object[] {"III","ISI","III",Character.valueOf('I'),net.minecraft.item.Item.ingotIron,Character.valueOf('S'),StoneGrindWheel});
+		GameRegistry.addShapedRecipe(new ItemStack(GoldGrindWheel),new Object[] {"GGG","GIG","GGG",Character.valueOf('G'),net.minecraft.item.Item.ingotGold,Character.valueOf('I'),IronGrindWheel});
+		GameRegistry.addShapedRecipe(new ItemStack(DiamondGrindWheel),new Object[] {"DDD","DGD","DDD",Character.valueOf('D'),net.minecraft.item.Item.diamond,Character.valueOf('G'),GoldGrindWheel});
 	}
 	
 	
