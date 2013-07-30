@@ -29,7 +29,6 @@ public class FFMine {
      */
     @PreInit
     public void preInit(FMLPreInitializationEvent event) {
-       ores.init();
        Crystals.Item();
        GrindStone.Item();
     }
