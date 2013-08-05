@@ -2,6 +2,7 @@ package net.digidownloads.FFmine;
 
 import net.digidownloads.FFmine.item.Crystals;
 import net.digidownloads.FFmine.item.GrindStone;
+import net.digidownloads.FFmine.item.Weapons;
 import net.digidownloads.FFmine.lib.Reference;
 import net.digidownloads.FFmine.block.*;
 import cpw.mods.fml.common.Mod;
@@ -31,6 +32,7 @@ public class FFMine {
     public void preInit(FMLPreInitializationEvent event) {
        Crystals.Item();
        GrindStone.Item();
+       Weapons.Weapon();
     }
     
     /***

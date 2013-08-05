@@ -36,6 +36,14 @@ public class Reference {
 	public static final int IronGrindWheelID = 1008;
 	public static final int GoldGrindWheelID = 1009;
 	public static final int DiamondGrindWheelID = 1010;
+	
+	
+	
+	
+	//bows
+    public static final int IronBowID = 3000;
+    public static final int GoldBowID = 3001;
+    public static final int DiamondBowID = 3002;
   
 	
 	
